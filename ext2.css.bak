@@ -1,0 +1,12 @@
+.div1{
+background-color:red;
+width:100%
+height:auto;
+font-size:5rem;
+}
+.master{
+font-size:10px;
+}
+html{
+font-size:20px;
+}

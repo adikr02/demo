@@ -1,0 +1,66 @@
+.p1
+{
+    background-color: red;
+    width: 100%;
+    height:150px;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+}
+.p2
+{
+    background-color: green;
+    width:20%;
+    height: 200px;
+    float: left;
+}
+.p3
+{
+    background-color: yellow;
+    width:60%;
+    height: 200px;
+    float: left;
+    font-size: 30px;
+}
+.p4
+{
+    background-color: green;
+    width:20%;
+    height: 200px;
+    float: left;
+}
+.p5
+{
+    background-color: blue;
+    width:40%;
+    height: 200px;
+    float: left;
+}
+.p6
+{
+    background-color: pink;
+    width:60%;
+    height: 200px;
+    float: left;
+}
+.p7
+{
+    background-color:orange;
+    width:70%;
+    height: 200px;
+    float: left;
+}
+.p8
+{
+    background-color:yellow;
+    width:30%;
+    height: 200px;
+    float: left;
+}
+.p9
+{
+    background-color:red;
+    width:100%;
+    height: 100px;
+    float: left;
+}
